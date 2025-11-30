@@ -14,7 +14,7 @@ A premium, responsive landing page for a fictional AI automation SaaS, built wit
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jerry-619/nexsus-ai-landingpage.git
    cd nexus-ai-landing
    ```
 
